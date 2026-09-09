@@ -20,6 +20,18 @@ Data Engineer with 7+ years of experience in technology, evolving through operat
 - The new approach reduced reprocessing, execution time, AWS resource consumption and cloud cost by approximately **60%**.
 - Supported and evolved approximately **20 production data pipelines** in a critical telecom environment processing millions of records.
 
+## Featured Data Engineering portfolio
+
+The portfolio is organized around architecture and engineering decisions rather than isolated notebooks.
+
+- [AWS Incremental Data Pipeline](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/aws-incremental-data-pipeline) — incremental processing, watermarking, idempotency, partitioning, observability and cost optimization
+- [AWS Redshift + DMS Modernization](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/aws-redshift-dms-modernization) — full load + CDC, analytical migration, Redshift modeling and validation
+- [Databricks + PySpark Lakehouse](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/databricks-pyspark-lakehouse) — Spark, Medallion, deduplication, MERGE, performance and CI
+- [Snowflake + dbt Analytics Engineering](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/snowflake-dbt-analytics-engineering) — staging, intermediate, marts, tests, snapshots and incremental models
+- [Azure Data Engineering Platform](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/azure-data-engineering-platform) — ADF, ADLS Gen2, Databricks, Key Vault, incremental ingestion and AWS-to-Azure mapping
+
+> Portfolio projects involving technologies outside my strongest production stack are clearly presented as hands-on/reference architectures, not as invented production experience.
+
 ## Engineering topics I focus on
 
 `Data Pipelines` · `Incremental Processing` · `SQL Performance` · `Data Modeling` · `Cloud Architecture` · `Data Quality` · `Observability` · `Scalability` · `Cost Optimization`
@@ -37,7 +49,7 @@ I am continuously expanding my Data Engineering stack with hands-on study in:
 
 ## Repositories
 
-- [Data Portfolio](https://github.com/dmerelo/meu-portifolio-de-dados)
+- [Data Engineering Portfolio](https://github.com/dmerelo/meu-portifolio-de-dados)
 - [Jupyter Notebooks](https://github.com/dmerelo/Project_Jupyter_Notebooks)
 - [Portfolio Website](https://github.com/dmerelo/dmerelo.github.io)
 

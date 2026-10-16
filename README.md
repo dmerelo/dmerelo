@@ -1,19 +1,20 @@
 # Douglas Merelo
 
-**Senior Data Engineer | AWS | Python | SQL | ETL/ELT | Data Pipelines | Cloud Architecture**
+**Data Engineer | AWS (Glue · Redshift · Athena · Lambda) | PySpark · Airflow · Python · SQL | ETL/ELT**
 
-Data Engineer with 7+ years of experience in technology, evolving through operations, systems, analytics and cloud data engineering. My strongest production experience is with **AWS, Python and SQL**, building and supporting data pipelines, ETL/ELT workflows, integrations, APIs and production data workloads.
+Data Engineer with 7+ years of career experience, evolving through operations, systems, analytics and cloud data engineering. My strongest production experience is with **AWS, PySpark, Python, SQL and Airflow**, building and supporting data pipelines, ETL/ELT workflows, integrations, APIs and production data workloads.
 
 ## Selected impact
 
-- Contributed to the evolution of a national-scale telecom platform from daily **full-load processing to incremental processing**.
+- Led the implementation of the V2 incremental-processing architecture for a national-scale telecom platform, replacing daily **full loads** that ran in **4–6 hour windows (up to 8 hours at peak)**.
 - The change reduced reprocessing, execution time, AWS resource consumption and cloud cost by approximately **60%**.
-- Supported and evolved approximately **20 production data pipelines** in a critical environment processing millions of records.
+- Built and maintained approximately **20 production ETL/ELT pipelines** with AWS Glue (PySpark), Python and SQL, orchestrated with Airflow and Step Functions, in a critical environment processing millions of records.
 
 ## Core stack
 
-**AWS:** S3, Glue, Athena, Lambda, ECS, EC2, API Gateway, EventBridge, CloudWatch, IAM, Secrets Manager, DynamoDB, Aurora PostgreSQL  
-**Languages:** Python, SQL, Shell Script  
+**AWS:** Glue (PySpark), Redshift, Athena, S3, Lambda, Step Functions, EventBridge, ECS, EC2, API Gateway, CloudWatch, IAM, Secrets Manager, DynamoDB, Aurora PostgreSQL  
+**Orchestration:** Apache Airflow, AWS Step Functions  
+**Languages:** Python, PySpark, SQL, Shell Script  
 **Databases:** PostgreSQL, Aurora PostgreSQL, Oracle, SQL Server, MySQL, DynamoDB  
 **Engineering:** ETL/ELT, Data Pipelines, Data Modeling, REST APIs, Docker, Git, CI/CD, observability and troubleshooting
 

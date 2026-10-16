@@ -22,11 +22,8 @@ Data Engineer with 7+ years of career experience, evolving through operations, s
 
 | Project | Focus |
 |---|---|
-| [AWS Incremental Data Pipeline](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/aws-incremental-data-pipeline) | **Flagship** — incremental processing, watermarking, idempotency, reprocessing, observability and cost optimization |
-| [AWS Redshift + DMS Modernization](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/aws-redshift-dms-modernization) | CDC, analytical migration, Redshift modeling and validation |
-| [Databricks + PySpark Lakehouse](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/databricks-pyspark-lakehouse) | Spark, Medallion, deduplication, MERGE and performance |
-| [Snowflake + dbt](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/snowflake-dbt-analytics-engineering) | Analytics Engineering, dbt models, tests, snapshots and incremental models |
-| [Azure Data Engineering](https://github.com/dmerelo/meu-portifolio-de-dados/tree/main/projects/azure-data-engineering-platform) | ADF, ADLS Gen2, Databricks and AWS-to-Azure architecture mapping |
+| [AWS Incremental Data Pipeline](https://github.com/dmerelo/data-engineering-portfolio/tree/main/projects/aws-incremental-data-pipeline) | **Flagship** — incremental processing, watermarking, idempotency, reprocessing, observability and cost optimization |
+| [AWS Redshift + DMS Modernization](https://github.com/dmerelo/data-engineering-portfolio/tree/main/projects/aws-redshift-dms-modernization) | CDC, analytical migration, Redshift modeling and validation |
 
 > Technologies outside my strongest production stack are presented as hands-on/reference projects, not as previous production experience.
 
@@ -36,7 +33,7 @@ Data Engineer with 7+ years of career experience, evolving through operations, s
 
 ## Links
 
-- [Data Engineering Portfolio](https://github.com/dmerelo/meu-portifolio-de-dados)
+- [Data Engineering Portfolio](https://github.com/dmerelo/data-engineering-portfolio)
 - [Portfolio Website](https://dmerelo.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/douglas-merelo/)
 - Email: douglas.merelo@outlook.com
